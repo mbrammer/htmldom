@@ -1,6 +1,6 @@
 {
   "name": "htmldom",
-  "version": "4.0.12",
+  "version": "4.1.0",
   "description": "Simplified html handle in nodejs",
   "main": "htmldom.js",
   "scripts": {
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/douzi8/htmldom.git"
+    "url": "https://github.com/mbrammer/htmldom.git"
   },
   "keywords": [
     "html",
@@ -23,11 +23,11 @@
     "xml",
     "parser"
   ],
-  "author": "douzi <liaowei08@gmail.com>",
+  "author": "mbrammer",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/douzi8/htmldom/issues"
+    "url": "https://github.com/mbrammer/htmldom/issues"
   },
-  "homepage": "https://github.com/douzi8/htmldom",
+  "homepage": "https://github.com/mbrammer/htmldom",
   "devDependencies": {}
 }

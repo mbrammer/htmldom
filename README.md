@@ -1,5 +1,4 @@
 # htmldom — Simplified html or xml handle in nodejs
-[![NPM](https://nodei.co/npm/htmldom.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/htmldom/)
 ```js
 const createHtmlDom = require('htmldom')
 
